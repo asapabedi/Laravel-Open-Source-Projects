@@ -204,6 +204,7 @@
 | Project Name                             | Description                                                  |	Credit			|
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
 | [Laravel Talk](https://github.com/nahid/talk) | Talk is a Laravel 5 based user conversation (inbox) system with realtime messaging | [nahid]()|
+| [Laravel Twitter Clone](https://github.com/asapabedi/TANGO_Twitter-clone) | Tango is a twitter like app built with vue.js, graph.QL and Pusher implemented on laravel. | [asapabedi]()|
 | [Laravel-Tasks](https://github.com/jeremykenedy/laravel-tasks)[T] | An app of tasks lists for each individual user. Built on Laravel 5.2, using 5.2 authentication and middleware. This has robust verbose examples using Laravel best practices.| [jeremykenedy]()	|
 | [Laravel Tech Detector](https://github.com/ppshobi/tech-detector)[P] | The goal of Technology Detector is to help web developers, Security researchers, Domain Buyers and web designers find out what technologies web pages are using which might help them to decide what technologies to implement themselves.This application can track country, state, city, latitude and longitude of an IP address. | [ppshobi]() | 
 |[Laravel-Themevel](https://github.com/Shipu/themevel) |	Themevel is a Laravel 5 theme and asset management package. You can easily integrate this package with any Laravel based project.| [Shipu]()	|
